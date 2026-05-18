@@ -129,7 +129,6 @@ All tools pinned to **1 CPU thread** for fair runtime comparison.
 │
 ├── figures/                    # 21 publication-quality figures (PNG)
 │
-├── generate_final_ppt.py       # Builds MSA_Benchmark_10slides.pptx
 ├── run_bench_datasets.py       # Runs benchmark on OXBench, SABRE, PREFAB4
 │
 └── MSA_Benchmark_10slides.pptx # 10-slide 15-min presentation
@@ -159,12 +158,6 @@ All tools pinned to **1 CPU thread** for fair runtime comparison.
 # 3. Statistical analysis and figure generation
 #    Open 03_analysis.ipynb and run all cells.
 #    Output: figures/*.pdf  (21 figures)
-```
-
-### Regenerate presentation
-
-```bash
-python generate_final_ppt.py    # → MSA_Benchmark_10slides.pptx
 ```
 
 ---
