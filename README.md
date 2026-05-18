@@ -129,16 +129,12 @@ All tools pinned to **1 CPU thread** for fair runtime comparison.
 ├── msa_benchmark_report.bib    # BibTeX references (15 entries)
 ├── report.pdf                  # Compiled 5-page report
 │
-├── figures/                    # 21 publication-quality figures (PDF + PNG)
+├── figures/                    # 21 publication-quality figures (PNG)
 │
 ├── generate_final_ppt.py       # Builds MSA_Benchmark_10slides.pptx
+├── run_bench_datasets.py       # Runs benchmark on OXBench, SABRE, PREFAB4
 │
-├── MSA_Benchmark_10slides.pptx      # 10-slide 15-min presentation
-│
-├── oup-authoring-template/     # OUP LaTeX class bundle (original)
-├── oup-authoring-template.cls  # Patched class (DOI suppressed, subsection bold)
-├── oup-abbrvnat.bst            # Bibliography style
-└── subfloat.sty
+└── MSA_Benchmark_10slides.pptx # 10-slide 15-min presentation
 ```
 
 ---

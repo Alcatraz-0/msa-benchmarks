@@ -40,6 +40,15 @@ overleaf_upload/
 MSA_Benchmark_Overleaf.zip
 BoxDrive.msi
 
+# ── LaTeX template support files (not needed once PDF is compiled) ────────────
+oup-authoring-template/
+oup-authoring-template.cls
+oup-authoring-template.bst
+oup-abbrvnat.bst
+oup-plain.bst
+subfloat.sty
+figures/*.pdf
+
 # ── Old / one-off scripts ─────────────────────────────────────────────────────
 fix_cell6.py
 patch_*.py
