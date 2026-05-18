@@ -1,0 +1,89 @@
+# ── LaTeX auxiliary ───────────────────────────────────────────────────────────
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+missfont.log
+
+# ── T-Coffee temp files ───────────────────────────────────────────────────────
+tc_*.dnd
+*.dnd
+
+# ── Large data / alignment output (too big for GitHub) ───────────────────────
+data/
+results/
+
+# ── BAliBASE raw tarballs ─────────────────────────────────────────────────────
+*.tar.gz
+*.tar
+*.gz
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# ── Build artifacts & duplicates ─────────────────────────────────────────────
+msa_final.*
+msa_final_v2.*
+msa_report_new.*
+msa_report_v2.*
+msa_report_final.*
+msa_report_numbered.*
+msa_benchmark_report_final.*
+overleaf_upload/
+MSA_Benchmark_Overleaf.zip
+BoxDrive.msi
+
+# ── Old / one-off scripts ─────────────────────────────────────────────────────
+fix_cell6.py
+patch_*.py
+make_report.py
+make_word_report.py
+generate_ppt.py
+generate_presentation.js
+test_popen.py
+test_famsa.py
+test_famsa2.py
+run_3aligners.py
+
+# ── Old presentation drafts ───────────────────────────────────────────────────
+MSA_Benchmark_Presentation.pptx
+MSA_Benchmark_Presentation_v2.pptx
+MSA_Benchmark_Presentation_v3.pptx
+MSA_Benchmark_Presentation_final.pptx
+MSA_Benchmark_Light_Theme.pptx
+
+# ── Old progress reports & requirements docs ──────────────────────────────────
+progress_report.pdf
+progress_report.docx
+progress_report_v2.docx
+progress_report.txt
+Project_progress_report_requirements.pdf
+Final_report_requirements.pdf
+MSA_Benchmark_Proposal_A4.docx
+main.tex
+
+# ── LaTeX build artefacts for report.* (keep report.pdf, ignore the rest) ───
+report.aux
+report.bbl
+report.blg
+report.log
+report.out
+
+# ── Duplicate / intermediate PDFs ────────────────────────────────────────────
+msa_benchmark_report.pdf
+msa_benchmark_report_final.pdf
+
+# ── OS noise ──────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Claude internal ───────────────────────────────────────────────────────────
+.claude/
