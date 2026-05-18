@@ -125,9 +125,7 @@ All tools pinned to **1 CPU thread** for fair runtime comparison.
 ├── 02_benchmark.ipynb          # Run all 7 aligners (checkpoint-resumable)
 ├── 03_analysis.ipynb           # Stats: Friedman, Wilcoxon, Nemenyi, all plots
 │
-├── msa_benchmark_report.tex    # LaTeX source — OUP Contemporary Large format
-├── msa_benchmark_report.bib    # BibTeX references (15 entries)
-├── report.pdf                  # Compiled 5-page report
+├── report.pdf                  # Compiled 5-page report (OUP format)
 │
 ├── figures/                    # 21 publication-quality figures (PNG)
 │
