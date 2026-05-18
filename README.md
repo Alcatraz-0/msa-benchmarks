@@ -132,12 +132,8 @@ All tools pinned to **1 CPU thread** for fair runtime comparison.
 ├── figures/                    # 21 publication-quality figures (PDF + PNG)
 │
 ├── generate_final_ppt.py       # Builds MSA_Benchmark_10slides.pptx
-├── generate_report.py          # Builds MSA_Benchmark_Final_Report.docx
-├── generate_explainer.py       # Builds MSA_Project_Explained.docx
 │
 ├── MSA_Benchmark_10slides.pptx      # 10-slide 15-min presentation
-├── MSA_Benchmark_Final_Report.docx  # Word version of the report
-├── MSA_Project_Explained.docx       # Plain-English explainer for non-experts
 │
 ├── oup-authoring-template/     # OUP LaTeX class bundle (original)
 ├── oup-authoring-template.cls  # Patched class (DOI suppressed, subsection bold)
@@ -171,12 +167,10 @@ All tools pinned to **1 CPU thread** for fair runtime comparison.
 #    Output: figures/*.pdf  (21 figures)
 ```
 
-### Regenerate deliverables
+### Regenerate presentation
 
 ```bash
 python generate_final_ppt.py    # → MSA_Benchmark_10slides.pptx
-python generate_report.py       # → MSA_Benchmark_Final_Report.docx
-python generate_explainer.py    # → MSA_Project_Explained.docx
 ```
 
 ---
