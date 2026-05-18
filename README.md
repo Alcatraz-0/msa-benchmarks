@@ -171,16 +171,3 @@ This benchmark follows the evaluation framework of:
 Pipeline: [github.com/nf-core/multiplesequencealign](https://github.com/nf-core/multiplesequencealign)
 
 ---
-
-## Authors
-
-| Name | Email |
-|---|---|
-| Anand Meena | ameen4@uic.edu |
-| Shruthi Kodati | skoda13@uic.edu |
-
-Department of Computer Science · University of Illinois at Chicago
-
----
-
-*Released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Free to share and adapt with attribution.*
