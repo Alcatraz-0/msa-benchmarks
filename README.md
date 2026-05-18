@@ -1,6 +1,6 @@
 # Systematic Benchmarking of Multiple Sequence Alignment Algorithms
 
-> **CS 502 — Computational Biology · University of Illinois at Chicago · Spring 2026**
+> **Computational Biology · University of Illinois at Chicago · Spring 2026**
 > Anand Meena · Shruthi Kodati
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
