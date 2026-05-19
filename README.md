@@ -1,7 +1,5 @@
 # Systematic Benchmarking of Multiple Sequence Alignment Algorithms
 
-> **Computational Biology · University of Illinois at Chicago · Spring 2026**
-> Anand Meena · Shruthi Kodati
 
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -318,17 +316,6 @@ python run_bench_datasets.py --workers 4     # parallel problems (default: 4)
 > Santus et al. (2025). *An nf-core framework for the systematic comparison of alternative modeling tools: the multiple sequence alignment case study.* NAR Genomics and Bioinformatics, 7(3), lqaf104. [doi:10.1093/nargab/lqaf104](https://doi.org/10.1093/nargab/lqaf104)
 
 Pipeline: [github.com/nf-core/multiplesequencealign](https://github.com/nf-core/multiplesequencealign)
-
----
-
-## Authors
-
-| Name | Email |
-|---|---|
-| Anand Meena | ameen4@uic.edu |
-| Shruthi Kodati | skoda13@uic.edu |
-
-Department of Computer Science · University of Illinois at Chicago
 
 ---
 
